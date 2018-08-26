@@ -3,7 +3,6 @@
 .DS_Store
 npm-debug.log
 
-lib/
 .tmp/
 typings/
 coverage/
